@@ -1,0 +1,5 @@
+rootProject.name = 'spring-boot-react-app'
+
+include 'frontend'
+
+include 'backend'
